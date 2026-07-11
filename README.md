@@ -11,7 +11,11 @@ Support code for the VHuman3D method (coming soon!). Work by Rafael Berral-Soler
 Some samples from the dataset:
 
 <p align = "center">
-<img src='images/qualitative/qualitative1_square.png' width='300'> <img src='images/qualitative/qualitative1_front.png' width='300'><img src='images/qualitative/qualitative1_side.png' width='300'> 
-<img src='images/qualitative/qualitative2_square.png' width='300'> <img src='images/qualitative/qualitative2_front.png' width='300'><img src='images/qualitative/qualitative2_side.png' width='300'> 
-<img src='images/qualitative/qualitative3_square.png' width='300'> <img src='images/qualitative/qualitative3_front.png' width='300'><img src='images/qualitative/qualitative3_side.png' width='300'> 
+<img src='images/qualitative/qualitative1_square.png' width='250'> <img src='images/qualitative/qualitative1_front.png' width='250'><img src='images/qualitative/qualitative1_side.png' width='250'> 
+</p>
+<p align = "center">
+<img src='images/qualitative/qualitative2_square.png' width='250'> <img src='images/qualitative/qualitative2_front.png' width='250'><img src='images/qualitative/qualitative2_side.png' width='250'>
+</p>
+<p align = "center">
+<img src='images/qualitative/qualitative3_square.png' width='250'> <img src='images/qualitative/qualitative3_front.png' width='250'><img src='images/qualitative/qualitative3_side.png' width='250'> 
 </p>
