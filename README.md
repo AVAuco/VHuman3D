@@ -5,7 +5,7 @@ Support code for the VHuman3D method (coming soon!). Work by Rafael Berral-Soler
 <img src='images/teaser_github.png' width='500'>
 </p>
 
-* **NEW (11/07/2026)**: Try our method in this Gradio app (currently self-hosted, sorry for the inconvenience). [![VHuman3D Demo](https://img.shields.io/badge/VHuman3D_Demo-green?style=plastic)](https://d68d1bfb4b07cf8e34.gradio.live)
+* **NEW (11/07/2026)**: Try our method in this Gradio app. [![VHuman3D Demo](https://img.shields.io/badge/VHuman3D_Demo-green?style=plastic)](https://mjmarinj-vhuman3d.hf.space/)
 
 ## Qualitative results
 Some samples from the dataset:
