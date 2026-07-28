@@ -67,9 +67,6 @@ Here is how **VHuman3D** stacks up against popular baseline methods ([4D-Humans]
         <td align="center">Yes</td>
       </tr>
       <tr>
-        <td colspan="4" style="border-top: 3px solid var(--color-border-default, #d0d7de); padding: 0;"></td>
-      </tr>
-      <tr>
         <td><b>VHuman3D (Ours)</b></td>
         <td align="center">46.68</td>
         <td align="center">130M</td>
@@ -98,7 +95,6 @@ Here is how **VHuman3D** stacks up against popular baseline methods ([4D-Humans]
         <th width="16%" style="border: none; text-align: center;"><b>Input</b></th>
         <th width="16%" style="border: none; text-align: center;"><b>Camera aligned</b></th>
         <th width="16%" style="border: none; text-align: center;"><b>Side view (+90º)</b></th>
-        <th width="1%" style="border: none;"></th>
         <th width="16%" style="border: none; text-align: center;"><b>Input</b></th>
         <th width="16%" style="border: none; text-align: center;"><b>Camera aligned</b></th>
         <th width="16%" style="border: none; text-align: center;"><b>Side view (+90º)</b></th>
@@ -109,7 +105,6 @@ Here is how **VHuman3D** stacks up against popular baseline methods ([4D-Humans]
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative1_square.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative1_front.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative1_side.png' width='100%'></td>
-        <td style="border-left: 2px solid var(--color-border-default, #d0d7de); border-top: none; border-bottom: none; padding: 0;"></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative4_square.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative4_front.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative4_side.png' width='100%'></td>
@@ -118,7 +113,6 @@ Here is how **VHuman3D** stacks up against popular baseline methods ([4D-Humans]
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative2_square.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative2_front.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative2_side.png' width='100%'></td>
-        <td style="border-left: 2px solid var(--color-border-default, #d0d7de); border-top: none; border-bottom: none; padding: 0;"></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative5_square.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative5_front.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative5_side.png' width='100%'></td>
@@ -127,7 +121,6 @@ Here is how **VHuman3D** stacks up against popular baseline methods ([4D-Humans]
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative3_square.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative3_front.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative3_side.png' width='100%'></td>
-        <td style="border-left: 2px solid var(--color-border-default, #d0d7de); border-top: none; border-bottom: none; padding: 0;"></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative6_square.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative6_front.png' width='100%'></td>
         <td style="border: none; padding: 0;"><img src='images/qualitative/qualitative6_side.png' width='100%'></td>
